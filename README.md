@@ -7,4 +7,4 @@ Often the hardest part of solving a machine learning problem can be finding the 
 Different estimators are better suited for different types of data and different problems.
 The flowchart below is designed to give users a bit of a rough guide on how to approach problems with regard to which estimators to try on your data.
 
-![ML MAP](python_sklearn/ml_map.png)
+![ML MAP](https://github.com/sahu712/python_sklearn/blob/master/ml_map.png?raw=true)
